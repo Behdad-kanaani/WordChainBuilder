@@ -1,5 +1,13 @@
 ## 🚀 WordChainBuilder: A Python Tool for Finding Word Chains
 
+
+[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
+[![Issues](https://img.shields.io/github/issues/yourusername/WordChainBuilder)](https://github.com/yourusername/WordChainBuilder/issues)
+[![Stars](https://img.shields.io/github/stars/yourusername/WordChainBuilder)](https://github.com/yourusername/WordChainBuilder/stargazers)
+
+
+
 ### 🌟 Overview
 
 **`WordChainBuilder`** is a pure Python tool designed to discover the longest possible chains of words from a given list. It does this by applying two distinct, powerful rules. Whether you're a fan of word games, a computational linguist, or a programmer looking for an interesting challenge, this tool provides an elegant way to explore the relationships between words. Built with simplicity in mind, it's easy to use right out of the box with no external dependencies.
