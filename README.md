@@ -26,7 +26,7 @@ Getting started is quick and easy. All you need is **Python 3.7+**.
 <!-- end list -->
 
 ```bash
-git clone https://github.com/yourusername/WordChainBuilder.git
+git clone https://github.com/Behdad-kanaani/WordChainBuilder.git
 cd WordChainBuilder
 ```
 
