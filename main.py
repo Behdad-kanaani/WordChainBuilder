@@ -7,6 +7,7 @@
 #         1. "substring"   -> Each word must be a substring of the next word. #
 #         2. "char_subset" -> All characters of the previous word must exist  #
 #                             in the next word, respecting character counts.  #
+#                    Github: Behdad-kanaani/WordChainBuilder                   #
 #                                                                              #
 ################################################################################
 
@@ -67,23 +68,3 @@ def find_longest_word_chains(words: List[str], rule: str = "substring") -> List[
     """
     chains_map = build_chains(words, rule)
     return find_longest_chains(chains_map)
-
-
-# ======================= Example Usage =======================
-
-example_words = ["apple", "ple", "Oapple", "bapple", "capple"]
-
-def print_chains(chains: List[List[str]], rule: str):
-    print(f"Chains using '{rule}' rule:")
-    if not chains:
-        print("No chains were found.")
-    else:
-        for chain in chains:
-            print(" -> ".join(chain))
-    print("\n")
-
-chains_substring = find_longest_word_chains(example_words, rule="substring")
-chains_char_subset = find_longest_word_chains(example_words, rule="char_subset")
-
-print_chains(chains_substring, "substring")
-print_chains(chains_char_subset, "char_subset")
