@@ -74,9 +74,13 @@ print_chains(chains_char, "char_subset")
 ```
 Chains using 'substring' rule:
 ple -> apple -> Oapple
+ple -> apple -> bapple
+ple -> apple -> capple
 
 Chains using 'char_subset' rule:
-apple -> capple
+ple -> apple -> Oapple
+ple -> apple -> bapple
+ple -> apple -> capple
 ```
 
 -----
