@@ -3,8 +3,8 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-[![Issues](https://img.shields.io/github/issues/yourusername/WordChainBuilder)](https://github.com/yourusername/WordChainBuilder/issues)
-[![Stars](https://img.shields.io/github/stars/yourusername/WordChainBuilder)](https://github.com/yourusername/WordChainBuilder/stargazers)
+[![Issues](https://img.shields.io/github/issues/Behdad-kanaani/WordChainBuilder)](https://github.com/yourusername/WordChainBuilder/issues)
+[![Stars](https://img.shields.io/github/stars/Behdad-kanaani/WordChainBuilder)](https://github.com/yourusername/WordChainBuilder/stargazers)
 
 
 
